@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_width">80dp</dimen>
+    <dimen name="avatar_height">80dp</dimen>
+    <dimen name="avatar_radius1">70dp</dimen>
+    <dimen name="avatar_radius2">110dp</dimen>
+    <dimen name="avatar_radius3">170dp</dimen>
+    <dimen name="avatar_radius4">250dp</dimen>
+    <dimen name="circle_width">1dp</dimen>
+</resources>
